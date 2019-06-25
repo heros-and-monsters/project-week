@@ -3,6 +3,8 @@ p {
     margin: 5vh;
 }
 
+
+
 img {
     display: block;
     margin:auto;
@@ -39,7 +41,7 @@ main > section {
 
 .homepage-title h1 {
     font-size: 70px;
-    margin-bottom: 0px;
+    margin: 0 auto;
   }
   
   .homepage-title h2 {

@@ -24,6 +24,15 @@ strong {
   font-weight: 700;
 }
 
+nav {
+  text-align: left;
+}
+
+nav img {
+  border: none;
+  margin:0;
+  width: 30px;
+}
 
 body {
   background-image: url("/img/background.jpg");
@@ -35,9 +44,8 @@ body {
 }
 
 header {
-  border-bottom: 3px solid #353434;
-  height: 150;
-  padding: 2vh;
+  padding-top: 30px;
+  padding-left: 20px;
   width: 100%;
   position: relative;
 }
